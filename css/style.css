@@ -1,0 +1,16 @@
+.inicio img{
+	width: 300px;
+}
+.card img{
+	width: 300px;
+}
+.list-products img{
+	width: 300px;
+}
+.profile img{
+	border-radius: 50%;
+	width: 150px;
+}
+.profile {
+	text-align: center;
+}
